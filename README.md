@@ -1,4 +1,3 @@
-# README
 # TweetApp
 ### 個人制作
 
