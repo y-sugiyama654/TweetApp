@@ -22,7 +22,7 @@
 -----------
 　  
 #### 5、投稿詳細 画面
-![postDetails.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/postDetails.jpg)
+![postDetail.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/postDetail.jpg)
 
 #### 6、マイページ 画面
 ![myPage.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/myPage.jpg)
