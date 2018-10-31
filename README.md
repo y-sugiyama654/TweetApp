@@ -2,8 +2,7 @@
 # TweetApp
 ### 個人制作
 
-### TweetApp！URL:
-##  https://tweet-app-2018.herokuapp.com/
+### TweetApp！URL: https://tweet-app-2018.herokuapp.com/
 
 ## SNSサイト【TweetApp】一部サンプル画像   
 #### 1、ホーム 画面  
