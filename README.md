@@ -17,23 +17,15 @@
 ![login.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/login.jpg)
 -----------
 　  
-#### 4、ユーザー新規登録 画面  
-![createUser.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/createUser.jpg)
+#### 4、投稿一覧 画面
+![postList.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/postList.jpg)
 -----------
 　  
-#### 5、ログイン 画面
-![login.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/login.jpg)
------------
-　  
-#### 6、投稿一覧 画面
-![postList.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/postList.jpg)
------------
-　  
-#### 7、投稿詳細 画面
-![postDetails.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/postDetails.jpg)
+#### 5、投稿詳細 画面
+![postDetails.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/postDetails.jpg)
 
-#### 8、マイページ 画面
-![myPage.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/myPage.jpg)
+#### 6、マイページ 画面
+![myPage.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/myPage.jpg)
 
-#### 9、ユーザー一覧 画面
-![userList.jpg](https://github.com/y-sugiyama654/ecsite-i1810b/blob/images/images/userList.jpg)
+#### 7、ユーザー一覧 画面
+![userList.jpg](https://github.com/y-sugiyama654/TweetApp/blob/images/images/userList.jpg)
