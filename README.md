@@ -4,9 +4,8 @@
 ### TweetApp！URL: https://tweet-app-2018.herokuapp.com/
 
 #### 概要
-Twitter風SNSサイト  
-Progateさん(https://prog-8.com/)  
-内のRailsコースのカリキュラムをローカル環境内で開発し，heroku上にて公開しています．
+Twitter風SNS，Progateさん(https://prog-8.com/)内のRailsコースの　　
+カリキュラムをローカル環境内で開発し，heroku上にて公開しています．
 
 #### 主な機能
 1．ユーザー登録　　  
